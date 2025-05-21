@@ -1,5 +1,3 @@
-protected_path = "C:\\Users\\Artemy\\source\\repos\\FaceRecognition\\FaceRecognition\\ne trogatj" # path to the protected file (changable)
-ref_image_path = "owner.png"
 cascade_path="haarcascade_frontalface_default.xml"
 distance_threshold=0.50
-camera_id= 1 # 0 - default camera, 1 - external camera
+camera_id= 0 # 0 - default camera, 1 - external camera
